@@ -1,0 +1,5 @@
+fusion_method_decomposition_zca_resnet50
+
+cd analysis
+
+analysis_main_infrared

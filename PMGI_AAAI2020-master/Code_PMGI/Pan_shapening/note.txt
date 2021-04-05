@@ -1,0 +1,1 @@
+Due to the particularity of spectral high fidelity of pansharpening, PMGI needs to perform some post-network operations to obtain the final result. When you get the 4 channels output from the network, you should run the "PMGI_pansharpening_match.m" file to generate the final result.

@@ -1,0 +1,57 @@
+                     Significant changes in SPORCO
+                     -----------------------------
+
+Version (M) 0.0.8 (2017-10-22)
+
+  * Added online convolutional dictionary learning algorithms (olcdl_sgd,
+    olcdl_sgd_msk, and olcdl_surfnc)
+  * Added ADMM consensus algorithm for batch convolutional dictionary
+    learning (cbpdndlcns)
+  * Various small changes and bug fixes
+
+
+Version (M) 0.0.7 (2017-04-29)
+
+  * Fixed significant error in cbpdndlmd
+
+
+Version (M) 0.0.6 (2017-02-16)
+
+  * Various small changes
+
+
+Version (M) 0.0.5 (2016-07-01)
+
+  * Added mask decoupling and mask simulation variants of cbpdn and cbpdndl
+  * Added variant of cbpdn with coefficient map gradient regularisation
+  * Added variant of cbpdn with joint sparsity
+
+
+Version (M) 0.0.4 (2016-04-21)
+
+  * Various small changes and bug fixes
+  * Added GPU code re-contributed under new license
+
+
+Version (M) 0.0.3 (2015-12-16)
+
+  * Various small changes and bug fixes
+  * Changed license from GPL to BSD
+  * Removed GPU code contributed under previous license
+
+
+Version (M) 0.0.2 (2015-08-07)
+
+  * Fixed dead links in Data/getdata.sh script
+  * Modified file path construction for improved Windows compatibility
+  * Added GPU versions of convolutional codes contributed by Ping-Keng Jao
+  * Fixed bug in auto rho mechanism in elnet function
+  * Added NonNegCoef option to some functions
+  * Renamed (c)bpdndliu to (c)bpdndl
+  * Fixed bugs in handling of NoBndryCross and DictFilterSizes options in
+    cbpdndl
+
+
+Version (M) 0.0.1 (2015-05-09)
+
+  * Initial release
