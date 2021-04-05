@@ -1,0 +1,23 @@
+
+Begin to train the network ...
+
+EPOCHES   :  1
+BATCH_SIZE:  1
+Train images number 100.
+
+Train images samples 100.0.
+
+source  : (1, 256, 256, 1)
+original: (1, 256, 256, 1)
+generate: (1, 256, 256, 1)
+
+Elapsed time for preprocessing before actually train the model: 0:00:02.273016
+Now begin to train the model...
+
+step: 100,  total loss: 0.496588,  elapsed time: 0:00:06.394891
+ssim_loss: 0.503412 
+Done training! Elapsed time: 0:00:07.410595
+Model is saved to: ./models/deepfuse_models/deepfuse_model_bs2_epoch4_all.ckpt
+
+Successfully! Done training...
+

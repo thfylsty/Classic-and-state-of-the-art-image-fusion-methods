@@ -1,0 +1,2 @@
+model_checkpoint_path: "deepfuse_model_bs2_epoch2_all.ckpt"
+all_model_checkpoint_paths: "deepfuse_model_bs2_epoch2_all.ckpt"

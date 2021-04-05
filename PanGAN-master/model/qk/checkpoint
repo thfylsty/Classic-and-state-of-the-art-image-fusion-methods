@@ -1,0 +1,2 @@
+model_checkpoint_path: "Generator-127000"
+all_model_checkpoint_paths: "Generator-127000"
